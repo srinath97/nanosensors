@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<title>Nano Sensor Lab</title>
+	
+	<body bgcolor="#ccc" >
+		
+		
+		<header>
+
+<div id='cssmenu'>
+<ul>
+   <li><a href='http://www.sastra.edu'>Sastra</a></li>
+   <li class="present"><a href=''>Homepage</a></li>
+   <li class="other"><a href=''>Manpower</a>
+   		<ul>
+		    <li><a href="#">Phd Scholars</a></li>
+		    <li><a href="#">Master Graduates</a></li>
+		    <li><a href="#">Bachelor graduates</a></li>
+		</ul>		
+	</li>
+	<li class="other"><a href="" >Alumini</a></li>
+	<li class="other"><a href="" >Collaborators</a></li>
+	<li class="other"><a href="" >Funding Sources</a>
+   		<ul>
+			<li><a href="#">Government Agency</a>
+				<ul>    
+			    	<li><a href="#">DST</a></li>
+			    	<li><a href="#">DRDO</a></li>
+			    	<li><a href="#">BRNS</a></li>
+				</ul>    	
+			</li>
+		    <li><a href="#">Private Agency</a>
+		    	<ul>    
+			    	<li><a href="#">TATA Power</a></li>
+			    	<li><a href="#">Schneider Electric</a></li>
+			    </ul>
+			</li>
+		</ul>
+	</li>
+   	<li class="other"><a href="" >Research</a>
+		<ul>
+		    <li><a href="#">Research Project</a></li>
+		    <li><a href="#">Research Publication</a></li>
+		</ul>
+	</li>
+    <li class="other"><a href="" >Patents</a>
+	    <ul>
+		    <li><a href="#">Ongoing</a></li>
+		    <li><a href="#">Finished</a></li>
+	    </ul>
+	</li>
+	<li class="other"><a href="" >Facilities</a></li>
+	<li class="other"><a href="" >Expertise</a>
+		<ul>
+		    <li><a href="#">Bio-Sensors</a></li>
+		    <li><a href="#">Gas/Vapour Sensors</a></li>
+		    <li><a href="#">Steganography</a></li>
+		</ul>
+	</li>
+	<li class="other"><a href="" >Images</a></li>
+	<li ><a href="" >Admin Login</a>
+		<ul  >
+		<li>
+		<form class="login">
+			<br>
+	             <center>Username<input type="text" name="user" class="log" /><br><br>
+	             Password<input type="password" name="pass" class="log" /><br><br>
+	             <center><a href="#">Forget Password?</a></center><br>
+	             <button type="button" class="btn btn-default">Login</button></center><br>
+	             </form>
+		</li>
+	</li>
+	</ul>
+	</div>
+<br><br>
+		</header>
+		
+		
+		<div id="banner">
+		<center>
+			<img src="image/SASTRA_logo.png" width="175px" >
+			<img id="img" src="image/logo.png" width="800px" height="95px">
+		</center>
+		</div>
+		<hr>
+		<div id="content"><center><h1><font face="cursive">NANO SENSOR LAB<br></font></h1></div><br>
+		<div id="news"><t><h2><a href="#" > <u>NEWS</u></a></h2></t>
+		<ul>
+			<li><a href="#">News 1 <img src="image/new.gif"></li></a><br>
+			<li><a href="#">News 2 <img src="image/new.gif"></li></a><br>
+			<li><a href="#">News 3 <img src="image/new.gif"></li></a><br>
+			<li><a href="#">News 4 <img src="image/new.gif"></li></a><br>
+			<li><a href="#">News 5 <img src="image/new.gif"></li></a><br>
+			<li><a href="#">News 6 <img src="image/new.gif"></li></a><br>
+		</ul>	
+
+		</div>
+		<div id="about">
+
+		<h1>
+									<u>	About SASTRA University	</u>				</h1>
+				
+	
+	
+		
+								<p style="text-align: justify;">
+	The dreams of its founding fathers took shape in 1984 in the form of Shanmugha College of Engineering, which is now renamed, SHANMUGHA ARTS, SCIENCE, TECHNOLOGY &amp; RESEARCH ACADEMY (SASTRA).&nbsp; Our programmes, infrastructure, teaching-learning, etc., are among the country&#39;s finest.&nbsp; SASTRA has always been proactive in its academic planning and believes in gaining the first-mover advantage. As a testimony to this, the Government of India has conferred the University status to SASTRA on April 26, 2001 under section 3 of the UGC Act, 1956. &nbsp;</p>
+<p style="text-align: justify;">
+	<br />
+	SASTRA offers various undergraduate and post graduate courses in Engineering, Science, Education, Management, Law and Arts besides various Doctoral programmes and has state-of-the-art laboratories, a well stocked library and one of the best computing facilities. &nbsp;With a sprawling campus having a built-up area of 2,22,129.02 square metre spread over 232 acres and a vibrant population of over 10,000 students and over 700 teaching faculty have made SASTRA a landmark in the educational map of India.</p>
+<p style="text-align: center;">
+	<img alt="" src="image/ask.jpg" style="width: 600px; height: 453px;" /></p>
+<p style="text-align: justify;">
+	<br />
+	With an ideal teacher-taught ratio, we strive for academic excellence through personalized attention. &nbsp;The mechanisms established to support and monitor the student&rsquo;s progress assure success and satisfaction. &nbsp;Since its inception SASTRA has achieved national standing in terms of academic performance, co-curricular and extra-curricular activities and also in its growth and commitment to social service. &nbsp;</p>
+<p style="text-align: justify;">
+	<br />
+	The standards of excellence of our programmes are reflected in the grades awarded to us by the National Assessment and Accreditation Council and in the success of our students in industry and academia, both in India &amp;&nbsp;abroad.&nbsp; SASTRA has also been re-accredited with Grade &lsquo;A&rsquo; (maximum) by the National Accreditation and Assessment Council (NAAC) a statutory body of U.G.C.</p>
+<p style="text-align: justify;">
+	
+</p><hr>
+	<h1><u>About Nano Sensor Lab</u></h1>
+	Nanosensors are any biological, chemical, or surgical sensory points used to convey information about nanoparticles to the macroscopic world. Their use mainly include various medicinal purposes and as gateways to building other nanoproducts, such as computer chips that work at the nanoscale and nanorobots. Presently, there are several ways proposed to make nanosensors, including top-down lithography, bottom-up assembly, and molecular self-assembly.
+	<br />
+	<p>Medicinal uses of nanosensors mainly revolve around the potential of nanosensors to accurately identify particular cells or places in the body in need. By measuring changes in volume, concentration, displacement and velocity, gravitational, electrical, and magnetic forces, pressure, or temperature of cells in a body, nanosensors may be able to distinguish between and recognize certain cells, most notably those of cancer, at the molecular level in order to deliver medicine or monitor development to specific places in the body. In addition, they may be able to detect macroscopic variations from outside the body and communicate these changes to other nanoproducts working within the body.
+	<br><br>
+
+	One example of nanosensors involves using the fluorescence properties of cadmium selenide quantum dots as sensors to uncover tumors within the body. By injecting a body with these quantum dots, a doctor could see where a tumor or cancer cell was by finding the injected quantum dots, an easy process because of their fluorescence. Developed nanosensor quantum dots would be specifically constructed to find only the particular cell for which the body was at risk. A downside to the cadmium selenide dots, however, is that they are highly toxic to the body. As a result, researchers are working on developing alternate dots made out of a different, less toxic material while still retaining some of the fluorescence properties. In particular, they have been investigating the particular benefits of zinc sulfide quantum dots which, though they are not quite as fluorescent as cadmium selenide, can be augmented with other metals including manganese and various lanthanide elements. <p>In addition, these newer quantum dots become more fluorescent when they bond to their target cells. (Quantum) Potential predicted functions may also include sensors used to detect specific DNA in order to recognize explicit genetic defects, especially for individuals at high-risk and implanted sensors that can automatically detect glucose levels for diabetic subjects more simply than current detectors. DNA can also serve as sacrificial layer for manufacturing CMOS IC, integrating a nanodevice with sensing capabilities.Therefore, using proteomic patterns and new hybrid materials, nanobiosensors can also be used to enable components configured into a hybrid semiconductor substrate as part of the circuit assembly. The development and miniaturization of nanobiosensors should provide interesting new opportunities
+	</p>
+	<hr>
+	
+		</div>
+		<div id="con"><h2>Contact</h2>	
+		<center><img src="image/jbbr.jpg" width="200" height="240" border-radius="10px"></center>
+		<br><center><h3>Dr. John Bosco Balaguru Rayappan</h3></center>
+		<br />
+		Associate Dean (Research)
+		
+		<br /><br />
+  		SASTRA University
+  		<br /><br />
+  Thanjavur-613 401, <br /><br />Tamil Nadu,
+  India<br /><br />
+  Contact no : +91 4362 264101-108 * 2255, <br /><br />
+    Mail id : rjbosco@ece.sastra.edu<br><br>
+    For more informtion,<a id="cv" href="http://sastra.edu/staffprofiles/schools/seee.php?staff_id=C676"><u>click here</u></a>
+    <br /><br />
+			
+			</div>
+
+
+		<?php echo "Hi, I’m a PHP script!"; ?>
+	</body>
+	
+</html>
